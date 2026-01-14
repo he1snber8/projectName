@@ -1,0 +1,1 @@
+<template><section class="projects"><h2>Projects</h2><div class="grid"></div></section></template><script>export default{name:'ProjectsSection'};</script><style scoped>.projects{padding:3rem 0;}.grid{display:grid;gap:1.5rem;}</style>
