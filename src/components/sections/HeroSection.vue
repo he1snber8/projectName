@@ -1,0 +1,1 @@
+<template><section class="hero"><h1>Your Name</h1><p>Front-end Developer</p></section></template><script>export default{name:'HeroSection'};</script><style scoped>.hero{min-height:60vh;display:flex;flex-direction:column;justify-content:center;}</style>
