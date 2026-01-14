@@ -1,0 +1,1 @@
+<template><div class="layout"><header><slot name="header"/></header><main><slot/></main><footer><slot name="footer"/></footer></div></template><script>export default{name:'LayoutShell'};</script><style scoped>.layout{max-width:1120px;margin:0 auto;padding:1.5rem;}</style>
