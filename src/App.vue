@@ -1,0 +1,1 @@
+<template><div class="app-root">App</div></template><script>export default{name:'App'};</script><style scoped>.app-root{min-height:100vh;}</style>
