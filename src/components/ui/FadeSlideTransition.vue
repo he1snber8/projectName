@@ -1,0 +1,1 @@
+<template><transition name="fade-slide"><slot/></transition></template><script>export default{name:'FadeSlideTransition'};</script><style>.fade-slide-enter-active,.fade-slide-leave-active{transition:all .3s ease;} .fade-slide-enter-from,.fade-slide-leave-to{opacity:0;transform:translateY(8px);}</style>
