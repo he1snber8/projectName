@@ -1,0 +1,1 @@
+<template><section class="contact"><h2>Contact</h2><form><label>Email<input type="email"/></label></form></section></template><script>export default{name:'ContactSection'};</script><style scoped>.contact{padding:3rem 0;}</style>
