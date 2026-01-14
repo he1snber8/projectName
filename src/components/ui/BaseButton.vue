@@ -1,0 +1,1 @@
+<template><button class="btn" :class="variant"><slot/></button></template><script>export default{name:'BaseButton',props:{variant:{type:String,default:'primary'}}};</script><style scoped>.btn{padding:.75rem 1.5rem;border-radius:999px;border:none;cursor:pointer;}</style>
