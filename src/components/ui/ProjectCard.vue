@@ -1,0 +1,1 @@
+<template><article class="card"><h3>{{title}}</h3><p>{{description}}</p></article></template><script>export default{name:'ProjectCard',props:{title:String,description:String}};</script><style scoped>.card{padding:1.5rem;border-radius:1rem;background:#111827;}</style>
